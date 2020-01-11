@@ -1,1 +1,3 @@
-
+coordinates = (4, 5)
+# coordinates[1] = 10, can not update/change tuples...
+print(coordinates[0])
