@@ -1,0 +1,4 @@
+#cd to .py file via cmd that you wish to create an .exe for.
+
+pip install pyinstaller
+pyinstaller --onefile FILE_NAME.py
